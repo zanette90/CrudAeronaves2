@@ -46,9 +46,6 @@ public class Aviao implements Comparable<Aviao>{
         aviaoList.remove(aviao);
    }
 
-   public static void alterarList(int reg) {
-
-   }
     public static List<Aviao> getAviaoList() {
         return aviaoList;
     }
